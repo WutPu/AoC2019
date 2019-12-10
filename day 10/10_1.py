@@ -105,3 +105,4 @@ while(currentTest[1] < len(allData)):
         currentTest[0] = 0
         currentTest[1] += 1
 print(bestLocation)
+#[[22, 19], 282]
